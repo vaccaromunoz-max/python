@@ -7,3 +7,4 @@ for i in range(1, 51):
         print("Buzz")
     else:
         print(i)
+    print("Fin del programa")
